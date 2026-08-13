@@ -1,6 +1,4 @@
 <div align="center">
-  <img src=""C:\Users\DELL\Downloads\download (1).jpg"" />
-" width="100%">
   
   # Hi, I'm Deepika 👋
   ### Backend Developer | Machine Learning Enthusiast
