@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="<img width="734" height="257" alt="download (1)" src="https://github.com/user-attachments/assets/d31148f8-7851-45cf-81ba-482e98a49b46" />
+  <img src=""C:\Users\DELL\Downloads\download (1).jpg"" />
 " width="100%">
   
-  # Hi, I'm Your Deepika 👋
+  # Hi, I'm Deepika 👋
   ### Backend Developer | Machine Learning Enthusiast
 </div>
 
@@ -29,8 +29,6 @@ I'm Deepika — a computer science undergraduate, build Rag-Lite bot and classif
 </p>
 
 ## Let's Build Something!
-
-📫 How to reach me: your.email@example.com
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dipica132-create&color=brightgreen" />
