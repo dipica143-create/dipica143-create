@@ -6,7 +6,7 @@
 
 ## 💻 whoami
 
-I'm Deepika — a computer science undergraduate, build Rag-Lite bot and classification model using kaggle dataset, and currently working on a Face Detection System project.
+I'm Deepika — a computer science undergraduate, built Rag-Lite bot and classification model using kaggle dataset, and currently working on a Face Detection System project.
 
 ## 🛠️ Tech Stack
 
