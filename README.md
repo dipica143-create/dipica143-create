@@ -11,7 +11,7 @@ I'm Deepika — a computer science undergraduate, built Rag-Lite bot and classif
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,c,spring,react,nextjs,tailwind,postgres,mysql,docker,git,linux" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,c,c++,react,nextjs,tailwind,postgres,mysql,docker,git" />
 </p>
 
 <p align="center">
