@@ -1,6 +1,6 @@
 <div align="center">
   
-  # Hello, I'm Deepika 👋
+  # Hello there 👋
   ### Backend Developer | Machine Learning Enthusiast
 </div>
 
